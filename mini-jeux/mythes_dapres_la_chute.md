@@ -1,5 +1,5 @@
 #  Mythes d'après la chute
-Mini-jeu pour une ou plusieurs Nephila. Chacune va se souvenir d’un épisode de son passé qui a inspiré ou répété *un mythe*. Ce mini-jeu peut être utiliser pour créer une Nephila en tant que protagoniste de l'histoire contrôlée par une joueuse, juste après [tirage d'arcane](mini-jeux/tirage_arcane.md).
+Mini-jeu pour une ou plusieurs Nephila. Chacune va se souvenir d’un épisode de son passé qui a inspiré ou répété *un mythe*. Ce mini-jeu peut être utiliser pour créer une Nephila en tant que protagoniste de l'histoire contrôlée par une joueuse, juste après [tirage d'arcane](tirage_darcane.md).
 
 **Un mythe** est un récit qui a enflammé l’imagination collective. Un mythe peut être lié à des faits historiques (les Night Witches, le sac de Constantinople), à de la fiction (Arsène Lupin, la reine Guenièvre), où s’intégrer à un système de croyances (Isis ressuscitant Osiris, la naissance d’Artémis et d’Apollon).
 
