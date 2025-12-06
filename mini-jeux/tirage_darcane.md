@@ -54,4 +54,4 @@ Si vous voulez créer en commun un personnage, sans encore savoir qui va la joue
    - ceux qui souffrent.
 
 ## Autres mini-jeux liés
-Quelle que soit la variante, la suite logique de ce mini-jeu est [mythes d'après la chute](mini-jeux/mythes_dapres_la_chute.md).
+Quelle que soit la variante, la suite logique de ce mini-jeu est [mythes d'après la chute](mythes_dapres_la_chute.md).
