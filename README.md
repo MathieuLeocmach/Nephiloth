@@ -1,4 +1,4 @@
-= Nephiloth = 
+# Nephiloth 
 
 Voir la page officielle du jeu et son blog sur [itch.io](https://lamson.itch.io/nephiloth). Les [archives du blog](https://nephiloth.blogspot.com).
 
@@ -12,6 +12,6 @@ Ce jeu peut être joué en campagne ou sur une unique séance. En campagne, les 
 
 Ces mini-jeux ont été développés pour une pratique de jeu en ligne en vocal uniquement, sans l'aide d'une table virtuelle. Suivant le mini-jeu, il peut être nécessaire de regarder soit un canal textuel, soit une image, soit les règles, soit un autre élément. Mais dans tous les cas, il suffit d'avoir une seule chose sous les yeux pour pouvoir jouer. Il se trouve que cette façon de jouer se transpose très facilement en présentiel.
 
-=== Ce jeu est fait pour vous si ===
+## Ce jeu est fait pour vous si
  - vous aimez le drama et la mythologie plus que l'Histoire.
  - vous saturez à moins d'une page de règle, et le moindre calcul vous sort de l'immersion.
