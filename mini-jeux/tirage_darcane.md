@@ -1,5 +1,8 @@
 # Tirage d’arcane
-Un mini-jeu pour créer une Nephila en tant que protagoniste contrôlée par une joueuse. 
+Un mini-jeu pour créer une Nephila en tant que protagoniste contrôlée par une joueuse.
+
+## Matériel
+- Un tarot divinatoire, ou de quoi tirer au hasard un arcane majeur de tarot.
 
 ## Variante en solitaire 
 Si vous êtes plusieurs à créer des personnages et que vous voulez aller vite, cette variante peut être joué en parallèle par toutes les joueuses qui créent leur Nephila.
