@@ -23,5 +23,5 @@ Il va falloir passer des instructions au joueur du seminariste. Une instruction 
 - Le participant qui contrôlait le séminariste décrit alors comment la Nephila perdue dans ses souvenirs s’est comportée au sein de l’assistance, et qui a prêté attention à elle. Ce faisant, il peut décrire ou nommer le lieu et les personnes présentes.
 
 
-# Inspiration: 
+## Inspiration: 
 - la salle des conférences de [l’hôtel du lion rouge](https://comemartin.itch.io/the-red-lion-hotel-demo-version).
