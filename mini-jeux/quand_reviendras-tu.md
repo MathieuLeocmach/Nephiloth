@@ -3,9 +3,7 @@
 Un mini jeu pour créer ou donner de l'importance à une relation à distance. Pour ne joueuse et au moins un autre participant.
 
 ## Matériel optionnel
-Une roue des émotions
-
-![une roue des émotions. Source : Wikimedia common](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Plutchik-wheel_fr.svg/591px-Plutchik-wheel_fr.svg.png)
+- [Une roue des émotions](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Plutchik-wheel_fr.svg/591px-Plutchik-wheel_fr.svg.png)
 
  
 ## Déroulement
