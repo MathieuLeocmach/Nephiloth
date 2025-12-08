@@ -15,3 +15,6 @@ Ces mini-jeux ont été développés pour une pratique de jeu en ligne en vocal 
 ## Ce jeu est fait pour vous si
  - vous aimez le drama et la mythologie plus que l'Histoire.
  - vous saturez à moins d'une page de règle, et le moindre calcul vous sort de l'immersion.
+
+## Comment découvrir ?
+La [trajectoire du duel](trajectoires/trajectoire_du_duel.md) permet de jouer une partie à deux sans MJ en un peu plus d'une heure. Il s'agit d'un enchaînement de 3 mini-jeux sélectionnés pour obtenir une trajectoire narrative satisfaisante.
