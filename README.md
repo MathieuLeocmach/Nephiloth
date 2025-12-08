@@ -18,3 +18,22 @@ Ces mini-jeux ont été développés pour une pratique de jeu en ligne en vocal 
 
 ## Comment découvrir ?
 La [trajectoire du duel](trajectoires/trajectoire_du_duel.md) permet de jouer une partie à deux sans MJ en un peu plus d'une heure. Il s'agit d'un enchaînement de 3 mini-jeux sélectionnés pour obtenir une trajectoire narrative satisfaisante.
+
+## Comment commencer une campagne sans MJ ?
+### Commencez par une session zéro
+- Jouez au [tirage d'arcane](mini-jeux/tirage_darcane.md), variante en solitaire, pour commencer à créer les personnages.
+- Jouez à [mythes d'après la chute](mini-jeux/mythes_dapres_la_chute.md), variante longue, pour continuer à créer les personnages.
+- Choisissez un cadre profane, c'est-à-dire le groupe de profanes auquel appartiennent les Nephila et la tâche auquel ce groupe est dédié. Ca peut être l'équipage d'une navire qui secoure des migrants, une mission archéologique, une famille qui se retrouve pour un dernier adieu, etc.
+- Jouez [l'incarnation](mini-jeux/incarnation) des Nephiloth dans leur hôte actuel. Déterminez leur fonction dans le cadre profane, leur place dans le groupe.
+- Jouez [rumeurs des eaux inférieures](mini-jeux/rumeurs.md) pour donner corps aux PNJs du groupe.
+  
+### Session 1
+- Avant la session, parcourez les mini-jeux existants et arrivez avec des envies.
+- Commencez la séance par un mini-jeu qui permettra d'extraire trois motifs symboliques commun pour au moins toute la séance. Par exemple
+  - [en chemin](mini-jeux/en_chemin.md),
+  - [exposition mystique](mini-jeux/exposition_mystique.md),
+  - [face au péril](mini-jeux/face_au_péril.md),
+  - ["Ils" me suivent](mini-jeux/ils_me_suivent.md),
+  - [sa place est dans un musée](mini-jeux/sa_place_est_dans_un_musee.md),
+  - [trentre siècles vous contemplent](mini-jeux/trente_siecles.md),
+- Choisissez n'importe quel mini-jeu pour continuer l'histoire.
